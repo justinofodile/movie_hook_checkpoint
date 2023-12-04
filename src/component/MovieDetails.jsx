@@ -36,7 +36,7 @@ const MovieDetails = () => {
   }
 
   return (
-    <div className="max-w-2xl mx-auto px-2 my-4 flex justify-around items-center gap-1 py-4 shadow-xl">
+    <div className="max-w-2xl mx-auto px-2 my-10 flex justify-around items-center gap-1 py-4 shadow-xl">
       <Card
         hoverable
         style={{
